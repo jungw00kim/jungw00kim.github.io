@@ -1,7 +1,7 @@
 ---
 title: "자주 사용하는 Markdown 정리"
 date: 2019-03-16
-categories: Markdown
+categories: Markdown jekyll
 ---
 # Markdown Tutorial!
 Markdown에서 자주 사용하는 문법에 대해서 정리한 내용
